@@ -1,0 +1,36 @@
+Creational Patterns
+	Factory Method/Template
+	Abstract Factory
+	Builder
+	Prototype
+	Singleton
+Structural Patterns
+	Adapter
+	Bridge
+	Filter
+	Composite
+	Decorator
+	Facade
+	Flyweight
+	Proxy
+Behavioral Patterns
+	Interpreter
+	Template Method/Pattern
+	Chain of Responsibility
+	Command
+	Iterator
+	Mediator
+	Memento
+	Observer
+	State
+	Strategy
+	Visitor
+J2EE Patterns
+	MVC Pattern
+	Business Delegate Pattern
+	Composite Entity Pattern
+	Data Access Object Pattern
+	Front Controller Pattern
+	Intercepting Filter Pattern
+	Service Locator Pattern
+	Transfer Object Pattern
